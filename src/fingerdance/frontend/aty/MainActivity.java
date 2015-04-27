@@ -1,8 +1,10 @@
-package fingerdance.frontend;
+package fingerdance.frontend.aty;
 
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
+
+import fingerdance.frontend.R;
 
 public class MainActivity extends Activity {
 
