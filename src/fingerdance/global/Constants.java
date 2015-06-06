@@ -1,8 +1,12 @@
-package fingerdance.backend;
+package fingerdance.global;
 
 public class Constants {
-	
+		
 	public static final String SERIALIZATION_FILE_PATH = "C://user_data.ser";
+	public static final String STRANGER_TRYING_UNLOCK_RECORD_FILE = "Stranger_Trying_Unlock.log";
+	
+	public static final String APP_MAIN_LOG_NAME = "strangerTryingUnlock";
+	public static final String APP_MAIN_LOG_FILE = "C://stranger.log";
 
 	class HoldPattern{
 		/**

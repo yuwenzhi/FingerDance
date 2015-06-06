@@ -1,4 +1,4 @@
-package fingerdance.backend;
+package fingerdance.backend.core;
 
 import java.io.Serializable;
 

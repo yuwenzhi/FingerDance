@@ -1,4 +1,4 @@
-package fingerdance.backend;
+package fingerdance.backend.core;
 
 public class Credential {
 	/**
